@@ -95,15 +95,15 @@ Specific findings and recommendations should be added after validating the resul
 
 ### 1. Sales Overview
 
-![Sales Overview Dashboard](images/sales-overview.png)
+![Sales Overview Dashboard](Images/sales-overview.png)
 
 ### 2. Product Analysis
 
-![Product Analysis Dashboard](images/product-analysis.png)
+![Product Analysis Dashboard](Images/product-analysis.png)
 
 ### 3. Transaction & Payment Analysis
 
-![Transaction and Payment Analysis Dashboard](images/transaction-payment-analysis.png)
+![Transaction and Payment Analysis Dashboard](Images/transaction-payment-analysis.png)
 
 
 ## Repository Structure
